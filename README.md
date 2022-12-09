@@ -27,13 +27,9 @@
  
 <div> 
   <a href="https://www.youtube.com/channel/UCMbeuDEF611NdlmlHyEjKJg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-
  <a href="https://discord.gg/terceirolho#5621" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-
   <a href = "mailto:serecologiaterra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
   <a href="https://www.linkedin.com/in/leticiagonc-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
   <a href="https://www.behance.com/lliara" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/terceirolho/workflows/blob/output/github-contribution-grid-snake.svg)
