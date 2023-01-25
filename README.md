@@ -33,7 +33,7 @@
  
   ![Snake animation](https://github.com/terceirolho/workflows/blob/output/github-contribution-grid-snake.svg)
    
-     github_terceirolho: ${{ github.repository_Platane/snk@v2 }}
+ ===
     
 
 </div>
