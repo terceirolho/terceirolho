@@ -1,6 +1,6 @@
  ## Criativa, curiosa e multiplicadora de ideias
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho com análise de sistemas
 - 🌱 Estudando Javascript,Css, Html, Typescript, React.Js, Next.Js, Noude.Js
 - 📧 Contate-me no email: serecologiaterra@gmail.com
 - 😄 Pronouns: Ela/Dela
