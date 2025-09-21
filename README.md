@@ -1,7 +1,7 @@
  ## Criativa, curiosa e multiplicadora de ideias
 
 - 🔭 Hoje trabalho com análise de sistemas
-- 🌱 Estudando Javascript,Css, Html, Typescript, React.Js, Next.Js, Noude.Js, Data science, Figma, QA
+- 🌱 Estudando Javascript,Css, Html, Typescript, React.Js, Next.Js, Noude.Js, Data science, Figma, QA, IA e BIG DATE
 - 📧 Contate-me no email: contatoleticiagr@gmail.com
 - 😄 Pronouns: Ela/Dela
 
