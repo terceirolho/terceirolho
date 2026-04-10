@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com análise de sistemas
 - 🌱 Estudando Javascript,Css, Html, Typescript, React.Js, Next.Js, Node.Js, Data science, Figma, QA, IA e BIG DATA
-- 📧 Contate-me no email: contatoleticiagr@gmail.com
 - 😄 Pronouns: Ela/Dela
 
 
